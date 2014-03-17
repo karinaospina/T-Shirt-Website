@@ -1,0 +1,63 @@
+body {
+
+background: #bfadad;
+
+}
+
+#container {
+
+background: #ffffff;
+
+width: 755px;
+
+margin: 0  auto;
+
+}
+
+#header {
+
+height: 350px;
+
+
+
+}
+
+#footer {
+
+
+
+text-align: center;
+
+height: 40px; 
+
+clear: both;
+
+}
+
+#content {
+
+width: 470px;
+
+float: left;
+
+margin-top: -180px;
+
+padding-left: 46px;
+
+}
+
+#navigation {
+
+width: 190px;
+
+float: left;
+
+margin-top: -180px;
+
+padding-left: 46px;
+
+}
+
+#map 
+{padding-left: 46px;}
+
